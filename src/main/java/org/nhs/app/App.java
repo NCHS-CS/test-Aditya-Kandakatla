@@ -1,8 +1,6 @@
-/*----------------------------------------------------------------------------------------
- * Copyright (c) Microsoft Corporation. All rights reserved.
- * Licensed under the MIT License. See LICENSE in the project root for license information.
- *---------------------------------------------------------------------------------------*/
+class App {
+public static void main(String args[]){
 
-package org.nhs.app;
-
-// Your code goes here
+    System.out.print("Hello world");
+}
+}
